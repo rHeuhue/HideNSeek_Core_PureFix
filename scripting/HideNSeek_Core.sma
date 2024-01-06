@@ -25,7 +25,7 @@ _____/\\\\\\\\\_____/\\\\____________/\\\\__/\\\_______/\\\__/\\\_______/\\\____
 #include <amxmisc>
 #include <fakemeta_util>
 #include <hamsandwich>
-#include <reapi>
+#include <reapi_stocks>
 #include <screenfade_util>
 #include <cromchat>
 
